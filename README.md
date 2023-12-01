@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming,  Cybersecurity and Automation
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate with you guys
-- 📫 How to reach me 
+- 📫 How to reach me johndoe1795@outlook.com
 
 <!---
 fyzo98/fyzo98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
